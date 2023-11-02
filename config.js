@@ -36,6 +36,7 @@ global.imagen5 = fs.readFileSync('./src/+18.jpg');
 
 global.mods = [];
 
+//pueden editar los links que tiran los cmd 
 global.nn = 'https://chat.whatsapp.com/K0JX94EgqaC8dMqDvlGd6L'//update
 global.nnn = 'https://instagram.com/sky.wwys'//update
 global.nna = 'https://Instagram.com/nin.thbb'//update
